@@ -5,7 +5,7 @@
 
 
 - Mastered the fundamentals of Docker and containerization technologies
-- 
+ 
 - Gained hands-on experience using Docker CLI and managing container lifecycle
 
 - Built, customized, and managed Docker images using Dockerfiles and registries
