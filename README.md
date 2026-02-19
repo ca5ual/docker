@@ -17,27 +17,3 @@
 - Orchestrated multi-container applications using Docker Compose
 
 
-
----
-
-### Kubernetes and Orchestration
-
-
-- Learned Kubernetes architecture and core components
-
-- Deployed and managed applications using Deployments and ReplicaSets
-
-- Deployed stateful applications using StatefulSets (MongoDB)
-
-- Configured Services and Headless Services
-
-- Implemented health checks using liveness and readiness probes
-
-- Managed persistent storage using PersistentVolumes and PersistentVolumeClaims
-
-- Used ConfigMaps and Secrets for configuration management
-
-- Implemented RBAC for security and access control
-
-- Used Kustomize for configuration management
-
