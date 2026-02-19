@@ -1,48 +1,43 @@
-# \## What I Learned
+### What I Learned
 
-# 
+### Docker and Containerization
 
-# \### Docker and Containerization
 
-# 
 
-# \- Mastered the fundamentals of Docker and containerization technologies
+- Mastered the fundamentals of Docker and containerization technologies
+ 
+- Gained hands-on experience using Docker CLI and managing container lifecycle
 
-# \- Gained hands-on experience using Docker CLI and managing container lifecycle
+- Built, customized, and managed Docker images using Dockerfiles and registries
 
-# \- Built, customized, and managed Docker images using Dockerfiles and registries
+- Applied advanced image optimization techniques including multi-stage builds
 
-# \- Applied advanced image optimization techniques including multi-stage builds
+- Implemented data persistence using Docker volumes
 
-# \- Implemented data persistence using Docker volumes
+- Orchestrated multi-container applications using Docker Compose
 
-# \- Orchestrated multi-container applications using Docker Compose
 
-# 
 
-# ---
+---
 
-# 
+### Kubernetes and Orchestration
 
-# \### Kubernetes and Orchestration
 
-# 
+- Learned Kubernetes architecture and core components
 
-# \- Learned Kubernetes architecture and core components
+- Deployed and managed applications using Deployments and ReplicaSets
 
-# \- Deployed and managed applications using Deployments and ReplicaSets
+- Deployed stateful applications using StatefulSets (MongoDB)
 
-# \- Deployed stateful applications using StatefulSets (MongoDB)
+- Configured Services and Headless Services
 
-# \- Configured Services and Headless Services
+- Implemented health checks using liveness and readiness probes
 
-# \- Implemented health checks using liveness and readiness probes
+- Managed persistent storage using PersistentVolumes and PersistentVolumeClaims
 
-# \- Managed persistent storage using PersistentVolumes and PersistentVolumeClaims
+- Used ConfigMaps and Secrets for configuration management
 
-# \- Used ConfigMaps and Secrets for configuration management
+- Implemented RBAC for security and access control
 
-# \- Implemented RBAC for security and access control
-
-# \- Used Kustomize for configuration management
+- Used Kustomize for configuration management
 

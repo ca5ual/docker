@@ -1,6 +1,6 @@
-**Docker Learning Project**
+### Docker Learning
 ---
-Overview
+## Overview
 
 This project contains multiple examples and exercises created while learning Docker. The main goal was to understand how to containerize applications, build optimized images, manage multi-container environments, and follow Docker best practices.
 
